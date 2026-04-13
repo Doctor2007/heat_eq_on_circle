@@ -1,5 +1,4 @@
 matplotlib
-sympy
 numpy
 ipykernels
 seaborn
